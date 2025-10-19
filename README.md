@@ -26,7 +26,7 @@ The project includes:
 ## 🧩 Project Structure
 
 DeepCSAT/
-│
+|
 ├── main/
 │ ├── app.py # Streamlit web app
 │ └── artifacts/ # Model artifacts (joblib + JSON)
