@@ -24,7 +24,7 @@ The project includes:
 ---
 
 ## 🧩 Project Structure
-
+```
 DeepCSAT/
 |
 ├── main/
@@ -41,7 +41,7 @@ DeepCSAT/
 │
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation (this file)
-
+```
 ---
 
 ## ⚙️ Installation & Setup
